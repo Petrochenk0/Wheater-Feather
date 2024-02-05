@@ -1,0 +1,10 @@
+#root {
+  margin: 0 auto;
+}
+body {
+  background-image: linear-gradient(315deg, #6495ed, #ffffff);
+  background-image: -webkit-linear-gradient(315deg, #6495ed, #ffffff);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
