@@ -8,7 +8,6 @@ import Rain from '../../assets/rain.png';
 import Snow from '../../assets/snow.png';
 import Wind from '../../assets/wind.png';
 import Clear from '../../assets/clear.png';
-
 export default function Weather() {
   const API_KEY = 'f91efe0fc5bae03556229b36115cb46d';
   const [weatherData, setWeatherData] = useState({
